@@ -1,0 +1,9 @@
+a,b=map(int,input().split())
+c,d=map(int,input().split())
+x=max(a,c)
+y=min(a,c)
+s=max(b,d)
+r=min(b,d)
+oi=x-y
+pi=s-r
+print(oi,pi)
