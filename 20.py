@@ -1,2 +1,2 @@
-jas=int(input())
-print(a*1,a*2,a*3,a*4,a*5)
+j=int(input())
+print(j*1,j*2,j*3,j*4,j*5)
